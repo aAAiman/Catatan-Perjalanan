@@ -1,0 +1,8 @@
+user_id|tanggal|waktu|lokasi|suhu_tubuh
+1|2022-04-07|11.30 wib|Jakarta|36 Celcius
+3|2022-04-09|19.30|Jojya|36
+3|2022-04-30|19.50 wib|SMK Taruna Bhakti|35 Celcius
+1|2022-04-12|11.30 wib|bandung|36 Celcius
+1|2022-04-12|19.30 wib|Jakarta|38
+1|2024-06-25|12.00 WIB|Bandung|38
+2|2024-06-25|12.00 WIB|Bandung|38
